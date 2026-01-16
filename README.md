@@ -50,4 +50,4 @@ This plugin is licensed under the MIT License. See the LICENSE file for more inf
 
 ## Author
 
-Developed by Davecamerini (https://www.davecamerini.com) - info@davecamerini.com (mailto:info@davecamerini.com)
+Developed by Davecamerini (https://www.davecamerini.com) - info@davecamerini.com
